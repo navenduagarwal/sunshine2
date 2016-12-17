@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
+<?xml version="1.0" encoding="utf-8"?><!--
      Copyright (C) 2015 The Android Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
@@ -53,7 +52,7 @@
 
 
     <!-- Content description for the get current location button in the location preference -->
-        <string name="pref_current_location_desc">Use my location</string>
+    <string name="pref_current_location_desc">Use my location</string>
 
     <!-- Strings used when displaying the state of the Location in settings -->
     <string name="pref_location_error_description">Invalid Location (<xliff:g id="location_setting">%1$s</xliff:g>)"</string>
@@ -229,4 +228,6 @@
 
     <!-- For Google Places API Attributions -->
     <string name="attribution_text">Powered by Google</string>
+    <string name="configure">Configure</string>
+    <string name="title_widget_today">Sunshine Today</string>
 </resources>
